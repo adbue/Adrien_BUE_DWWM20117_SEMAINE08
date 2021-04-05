@@ -26,7 +26,7 @@ GRANT 'r_gescom_affsuplliers'@'localhost' TO 'util3'@'localhost';
 
 
 --
--- 4 -Activation des ROLES -- CETTE PARTIE NE FONCTIONNE PAS
+-- 4 -Activation des ROLES 
 --
 
 SET DEFAULT ROLE 'r_gescom_admin' TO 'util1'@'localhost';
